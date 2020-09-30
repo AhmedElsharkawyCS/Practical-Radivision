@@ -1,0 +1,36 @@
+{
+  "movies": [
+    {
+      "name": "x1",
+      "description": "description",
+      "image": "image",
+      "publishedDate": "publishedDate",
+      "actors": [
+        {
+          "name": "ahmed",
+          "role": "hero"
+        },
+        {
+          "name": "mohamed",
+          "role": "policeman"
+        }
+      ]
+    },
+    {
+      "name": "x2",
+      "description": "description",
+      "image": "image",
+      "publishedDate": "publishedDate",
+      "actors": [
+        {
+          "name": "ali",
+          "role": "hero"
+        },
+        {
+          "name": "osama",
+          "role": "policeman"
+        }
+      ]
+    }
+  ]
+}
